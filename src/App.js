@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={matako} className="App-logo" alt="logo" />
         <p>
-          Protect Kenyans from poison <br/> STOP COVID CULT!
+          Protect Kenyans from poison <br/> STOP THE COVID CULT!
         </p>
       </header>
     </div>
